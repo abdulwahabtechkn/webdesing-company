@@ -22,6 +22,10 @@ body {
     color: #F39600FA;
 }
 
+.my-2{
+    margin: 2rem 0;
+}
+
 .dark{
     background: var(--secondary-color);
     color: #fff;
